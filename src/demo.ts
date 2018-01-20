@@ -10,3 +10,4 @@ class Speaker{
 let sp : Speaker = new Speaker();
 
 sp.hi("Lukes");
+sp.hi("Max");
